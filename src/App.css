@@ -1,0 +1,36 @@
+.TVChartContainer {
+  display: flex;
+  width: 100%;
+}
+
+.chartContainer {
+  display: flex;
+  position: absolute;
+  justify-content: space-between;
+  height: 100%;
+  width: 100%;
+}
+
+.button_box {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  border-left: 2px solid black;
+}
+
+.button {
+  width: 130px;
+  margin-top: 10px;
+}
+
+.flex {
+  display: flex;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.align-center {
+  align-items: center;
+}
